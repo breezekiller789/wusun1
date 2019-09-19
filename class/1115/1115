@@ -1,0 +1,7 @@
+DRAM = Dynamic Random Access Memory
+AP = Application Program
+Disk重要觀念 -> File System
+SSD = Solid State Memory
+ROM = Read Only Memory
+BIOS = Basic IO System
+開機有一個程式叫Boot Loader，然後把一堆開機的程式讀進記憶體後開始開機
